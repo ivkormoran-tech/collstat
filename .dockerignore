@@ -1,0 +1,31 @@
+# Windows системные файлы
+Thumbs.db
+desktop.ini
+ehthumbs.db
+*.lnk
+
+# macOS системные файлы
+.DS_Store
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.swp
+*.bak
+*.old
+
+# IDE
+.vscode/
+.idea/
+
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# Git
+.git/
